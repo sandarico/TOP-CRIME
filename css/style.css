@@ -1,0 +1,121 @@
+.one{
+	background-color:#15183a;
+	margin-bottom: 0px;
+	border: 0px;
+	
+}
+
+
+.two{
+	background-color:indigo;
+	padding-bottom: 50px;
+	border: none;
+	margin-bottom: 1px;
+}
+
+.thumbnails{
+	background-color:#15183a;
+	margin-bottom: 10px;
+}
+.like{
+background-color:
+}
+
+.h3{
+
+}
+.like{
+	padding-top: 70px;
+	border: 1px;
+}
+
+
+.body{
+	background-color: black;
+}
+/* crime css */
+.crime{
+	background-color:#57a59a91;
+}
+.crime1{
+	background-color: #57a59a91;
+}
+
+.crime2{
+	background-color:#57a59a91;  
+
+}
+
+.crime3{
+	background-color:#8c8c6b;
+}
+.crime4{
+	background-color: #e4e9db;
+}
+
+.crime5{
+	background-color: #e4e9db;
+}
+#crime6{
+	border-color: brown;		
+}
+
+.crime7{
+	background-color: white;
+}
+
+/*table css*/
+#table{
+	border-color: color:indigo;
+}
+
+.one{
+	background-color: blue;
+}
+
+.dashnavbar{
+	background-color: #0f2c29;
+	font-size: 20px;
+
+}
+
+.footer ul > li {
+	list-style: none;
+	float: left;
+	padding-right: 50px;
+}
+
+.footer{
+	background-color:  #0f2c29;
+}
+
+.framelight > p {
+	color:white
+}
+
+.framelight ul > li {
+	color:white
+}
+
+.list{
+	color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fbfbfb;
+}
+
+.containerone{
+	background-color:#38331a;
+
+}
+
+.framefooter{
+	 padding-top: 50px;
+	 font-size: 20px;
+	 margin-bottom: 70px;
+}
+	
+.containerone{
+	margin-top: 50px;
+}
